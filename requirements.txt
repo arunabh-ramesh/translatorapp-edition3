@@ -1,2 +1,7 @@
 streamlit
 openai
+streamlit
+SpeechRecognition
+translate
+tempfile
+langdetect
