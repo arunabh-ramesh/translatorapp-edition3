@@ -49,7 +49,7 @@ def main():
     
     language = st.selectbox(
         "Choose the Language to Translate Into", 
-        ["es", "fr", "de", "zh", "ja"], 
+        ["es", "fr", "de", "zh", "ja",], 
         format_func=lambda x: {
             "es": "Spanish", 
             "fr": "French", 
