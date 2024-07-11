@@ -1,7 +1,6 @@
 streamlit
 openai
-streamlit
-SpeechRecognition
-translate
-tempfile
+streamlit==1.36.0
+SpeechRecognition==3.10.4
+translate==3.6.1
 langdetect
