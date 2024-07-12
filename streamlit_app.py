@@ -37,7 +37,7 @@ def recognize_speech(audio_file):
 
 # Streamlit App
 def main():
-    st.title("Translator and Speech Recognition App")
+    st.title("🗣️Translator App")
     st.write("Welcome! Please enter the text you want translated.")
 
     # Input fields
